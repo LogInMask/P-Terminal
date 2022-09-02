@@ -7,5 +7,12 @@ The P-Terminal contains 19 commands and console GUI.
 
 # Whats added?
 
-1. Added new commands like:
-  exp, shutdown, 
+Added new commands like:
+  exp, rmdir, cls
+
+# Whats renamed?
+
+Renamed commands:
+  welcome - terminal
+  creator - dev
+  program - prog
