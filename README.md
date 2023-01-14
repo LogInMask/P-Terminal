@@ -1,3 +1,10 @@
+# The End!
+
+Sorry, but P-Terminal is stoped updating...
+But! It's will back with name - X-Terminal!
+There link on download X-Terminal, wait for it!
+<SOON>
+
 # What is P-Terminal?
 
 P-Terminal is a console, like CMD in Windows.
